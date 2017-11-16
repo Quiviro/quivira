@@ -73,8 +73,5 @@
 				$conn = null;
 			}
 		?>
-		<footer>
-			<p><a href="../" title="Inicio">Tortugas y Caracoles</a></p>
-		</footer>
 	</body>
 </html>

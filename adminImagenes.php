@@ -85,8 +85,5 @@ if (isset($_POST["btAlta"]) && isset($_POST["listaCiudades"])
 }
 ?>
 </div>
-<footer>
-	<p><a href="../" title="Inicio">Tortugas y Caracoles</a></p>
-</footer>
 </body>
 </html>
