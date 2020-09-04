@@ -1,8 +1,6 @@
 # quivira
 Ciudades
 
-Página de acceso: http://quivira.000webhostapp.com 
-
 Si está registrado como usuario, pulse en “Entrar”. 
 
 Si todavía no está registrado, o quiere registrar un nuevo usuario, pulse en “Registro”.
